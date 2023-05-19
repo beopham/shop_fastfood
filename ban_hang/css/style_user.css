@@ -1,0 +1,1320 @@
+
+.anh1
+{
+    width: 160px;
+}
+.nav-bg
+{
+    background-color:white;
+
+}
+.khungwelcome1
+{
+    height: 500px;
+    width: 50%;
+    float: left;
+}
+.anh-welcome
+{
+    height: 100%;
+    width: 100%;
+}
+.khungwelcome2
+{
+    height: 500px;
+    width: 50%;
+    background-color:black;
+    float: left;
+}
+.anh-khung-nhanxet
+{
+    width: 100%;
+}
+.anh-khung-nhanxet-2
+{
+    width: 100%;
+    height: 295px;
+}
+.khung-chu-welcome
+{
+  
+  font-size: 20px;
+  padding: 25px;
+}
+.khungnguoidungnx
+{
+    height: auto;
+    background-color: #FFC501;
+    margin-bottom: 10px;
+}
+.khung-welcome
+{
+    height: 400px;
+    margin-top: 30px;
+}
+.khung-bang-dm
+{
+    height: 450px;
+}
+.bang-danh-muc
+{
+    height: 100%;
+    width: 100%;
+}
+.anh-slide-dm
+{
+    height: 450px;
+}
+.khungdanhmuc
+{
+    height: 450px;
+    margin-bottom: 20px;
+
+}
+.chu-danhmuc
+{
+    text-decoration: none;
+    cursor: pointer;
+    color: #111;
+}
+.text-yellow
+{
+    color:#111;
+    font-size: 20px;
+}
+.text-yellow:hover
+{
+    color:rgb(0, 145, 255);
+}
+.nav-hover-white:hover
+{
+    color: white;
+}
+.dropdown-menu
+{
+
+    background-color:  white;
+}
+.chu-a
+{
+    color: black;
+}
+.chu-a:hover
+{
+  
+    color:rgb(0, 145, 255);
+}
+.nav-header
+{
+    margin-top: 40px;
+}
+.anh-menu
+{
+    height: 700px;
+    width: 100%;
+}
+.lop2
+{
+    margin-top: 40px;
+}
+.khoi-sp
+{
+    height: 400px;
+    overflow: hidden;
+   
+}
+
+.cot-2
+{
+    margin-top: 50px;
+}
+.anh-cot2
+{
+    height: 400px;
+    width: 500px;
+    position: relative;
+}
+.cot-3
+{
+    margin-top: 50px;
+}
+
+.khoi-sp .anh-cot2
+{
+    transition: 1s;
+  
+}
+.khoi-sp .anh-cot2:hover
+{
+    transform: scale(1.2);
+   
+}
+
+.khung-the-hover-anh
+{
+    background: rgba(250, 191, 0, 0.9);
+    width: 190px;
+    height: 45px;
+    margin-left: -80px;
+    border: 1px solid  rgba(250, 191, 0, 0.9);
+    border-radius: 5px;
+}
+.khung-the-hover-anh-1
+{
+    background: rgba(250, 191, 0, 0.9);
+    width: 110px;
+    height: 45px;
+    margin-left: -50px;
+    border: 1px solid  rgba(250, 191, 0, 0.9);
+    border-radius: 5px;
+}
+.khung-the-hover-anh-1:hover
+{
+    background-color: rgba(250, 191, 0, 0.9);
+}
+.the-h2-khung-hover
+{
+    position: absolute;
+    left: 10px;
+   
+}
+.khung-the-hover-anh:hover
+{
+    background-color: rgba(250, 191, 0, 0.9);
+}
+
+/* cột 4 */
+
+.khoi-cot4
+{
+    height: 300px;
+    margin-bottom: 20px;
+}
+.anh-cot4{
+	max-width: 100%;
+    height: 300px;
+}
+.khoi-cot4{
+
+	position: relative;
+	overflow: hidden;
+	transition: all 0.3s ease-out;
+	
+}
+.khoi-cot4 .anh-cot4{
+	transform: scale(1.2);
+	transition: all 0.3s ease-out;
+}
+.khoi-cot4:hover .anh-cot4{
+	transform: scale(1.1) translateY(-10px); 
+
+}
+.khoi-cot4 .description{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 15px;
+	width: 100%;
+	text-align: center;
+	color:  rgba(250, 191, 0, 0.9);
+	font-size: 18px;
+   
+}
+.khoi-cot4 .description .linksp-h3{
+	font-weight: 700;
+	font-size: 32px;
+	margin: 0 0 20px;
+	transform: translateY(20px);
+	opacity: 0;
+	transition: all 0.3s ease-out;
+
+}
+.khoi-cot4 .description h4{
+	transform: translateY(30px);
+	opacity: 0;
+	transition: all 0.3s ease-out 0.2s;
+}
+.khoi-cot4 .description a{
+   color: white;
+    background-color:  rgba(250, 191, 0, 0.9);
+	display: inline-block;
+	padding: 10px 25px;
+	border-radius: 5px;
+	text-decoration: none;
+	transform: translateY(30px);
+	opacity: 0;
+	transition: all 0.3s ease-out 0.4s;
+}
+.khoi-cot4 .description .nut-muahang{
+    color: white;
+     background-color:  rgba(250, 191, 0, 0.9);
+     display: inline-block;
+     padding: 10px 25px;
+     border-radius: 5px;
+     text-decoration: none;
+     transform: translateY(30px);
+     opacity: 0;
+     transition: all 0.3s ease-out 0.4s;
+ }
+
+.khoi-cot4.description a:hover{
+
+    background-color:  rgba(250, 191, 0, 0.9);
+}
+
+.khoi-cot4:hover .description .linksp-h3{
+	opacity: 1;
+	transform: translateY(-20px);
+}
+.khoi-cot4:hover .description h4{
+	opacity: 1;
+	transform: translateY(-20px);
+}
+.khoi-cot4:hover .description a{
+	opacity: 1;
+	transform: translateY(0px);
+} 
+.khoi-cot4:hover .description .nut-muahang{
+	opacity: 1;
+	transform: translateY(0px);
+} 
+
+.h1-cot-4
+{
+  color: black;
+}
+
+.khoicot4-sp
+{
+    width: 100%;
+   
+    overflow: hidden;
+}
+.follow-in
+{
+    margin-top: 50px;
+}
+.fa-instagram
+{
+    color:rgb(0, 162, 255);
+    cursor: pointer;
+  font-size: 40px;
+  margin-right: 5px;
+
+}
+.a-instagram 
+{
+    text-decoration: none; 
+    cursor: pointer;  
+   
+}
+.a-instagram:hover
+{
+   cursor: pointer;
+   text-decoration: underline;
+   color: tan;
+}
+.card-product{
+	width: 100%;
+	margin-left: 50px;
+	margin-right: 50px;
+	overflow: hidden;	
+} 
+.do
+{
+   
+    height: 300px;
+} 
+.vang
+{
+    background-color: #FFC501;
+}
+.khoi11
+{
+    height: 300px;
+}
+
+.anh-cot11
+{
+height: 100%;
+width: 100%;
+}
+
+.ko90
+{
+height: 300px;
+} 
+
+.image{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+
+    box-shadow: 0 0 25px 1px rgba(0, 0, 0, .3);
+    transition: .5s;
+
+}
+
+.image:after{
+    content: '';
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+    transform: translate(-140%, -50%);
+    background-color: rgba(148, 141, 73, 0.8);
+    border-radius: 50%;
+    transition: .8s;
+}
+
+.image:hover:after{
+    transform: translate(-50%, -50%);
+}
+
+.image:hover .anh78{
+    transform: translate(-50%, -50%) scale(1.3) rotate(20deg);
+}
+
+.anh78{
+    position: absolute;
+    height: 110%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: .8s;
+}
+
+.ig{
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-2000px, -50%);
+   
+    color: rgba(250, 191, 0, 0.9);
+    transition: .8s;
+    transition-timing-function: ease-in;
+}
+
+.image:hover .ig{
+    transform: translate(-50%, -50%);
+    transition-timing-function: ease;
+}
+
+.lop3
+{
+    margin-top: 60px;
+}
+.cot12
+{
+    height: auto;
+    
+}
+
+.fa-phone-square
+{
+    color:rgb(0, 162, 255);
+  font-size: 40px;
+  cursor: pointer;
+}
+.fa-reply
+{
+    color:rgb(0, 162, 255);
+    font-size: 40px;
+    cursor: pointer;
+}
+.fa-truck
+{ 
+    color:rgb(0, 162, 255);
+    font-size: 40px;
+    cursor: pointer;
+}
+.dong12
+{
+    margin-bottom: 50px;
+}
+
+.dong13 
+{
+    background-color: whitesmoke;
+}
+.cot13
+{
+    height:auto;
+    background-color: whitesmoke;
+    
+}
+
+.the-email
+{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.fa-facebook-official
+{
+    color:rgb(0, 162, 255);
+    font-size: 40px;  
+    cursor: pointer;
+    margin-right: 20px;
+}
+.fa-google-plus-official
+{
+    color:rgb(0, 162, 255);
+    font-size: 40px; 
+    margin-left: 20px;
+    margin-right: 20px; 
+    cursor: pointer;
+}
+.fa-twitter
+{
+    color:rgb(0, 162, 255);
+    font-size: 40px;  
+    cursor: pointer;
+}
+.jojn
+{
+    margin-bottom: 10px;
+}
+.khunglogo
+{
+    width: 600px;
+    height: auto;
+   
+}
+.dong14
+{
+    margin-top: 30px;
+} 
+
+/* css trang hamburger */
+.a-bread
+{
+    text-decoration: none;
+    color:rgb(0, 145, 255);
+    font-size: 20px;
+}
+.a-bread:hover
+{
+    color: rgba(250, 191, 0, 0.9);
+}
+.h1-burger
+{
+    color:rgb(0, 145, 255);
+}
+
+.khoi-burger
+{
+    height: 400px;
+    margin-top: 20px;
+} 
+
+
+ .thea-footer
+{
+    color: black;
+}
+.thea-footer:hover
+{
+    color:rgb(0, 145, 255);
+}
+.khoi-burger
+{
+    height: 400px;
+    margin-bottom: 20px;
+}
+.anh-pizza
+{
+    width: 100%;
+} 
+/* trang liên lạc */
+.khung-map
+{
+    height: 600px;
+    width: 100%;
+}
+.khung-lienlac
+{
+    width: 100%;
+    height: 180px;
+  
+    margin-top: 20px;
+}
+.icon-lienlac
+{
+ 
+    color:rgb(0, 162, 255);
+    font-size: 80px;  
+    cursor: pointer; 
+}
+.khung-icon
+{
+
+   width: auto;
+   height: auto;
+    
+    
+}
+.p-lienlac
+{
+    font-size: 20px;
+   
+    margin-bottom: 10px;
+    color:white;
+}
+.nd-lienlac
+{
+    color:white;
+    text-align: center;
+}
+.pl
+{
+ 
+  color:white;
+}
+.pol
+{
+
+    color:white;
+}
+.pil
+{
+    
+    color:white;
+}
+.khung-formlienlac
+{
+    height: 200px;
+
+}
+.form-lienlac
+{
+    margin-bottom: 30px;
+    height: 45px;
+}
+.text
+{
+    height: 200px;
+}
+.send-ll
+{
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+   
+}
+.khung-gui
+{
+    
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+.khungda
+{
+    width: 100%;
+    height: 1000px;
+    background-color:whitesmoke;
+    display: grid;
+    grid-template-columns: repeat(4,300px);
+    grid-template-rows: repeat(4,300px);
+    grid-gap: 25px;
+}
+.khunganh-ctsp
+{ 
+    width: 450px;
+    height: 400px;
+    position: relative;
+    top: 22px;
+    
+
+} 
+.khungmotactsp
+{
+   
+    width: 450px;
+    height: 400px;
+    margin-left: 460px;
+    padding: 15px;
+    margin-top: -370px;
+  
+}
+.anhthayho
+{
+    width: 100%;
+    height: 75%;
+}
+/* trang chi tiết sản phẩm */
+.nut-ctdh
+{
+     margin-left: 160px;
+    position: relative;
+    top: 400px;
+    
+}
+.khung-chitietsp
+{
+    height: 600px;
+
+    border: 1px solid gray;
+   padding: 0 30px 30px 30px ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: whitesmoke;
+    margin-top: 35px;
+   
+}
+.khung-chitietsp-2
+{
+    height: auto;
+
+    border: 1px solid gray;
+   padding: 0 30px 30px 30px ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: whitesmoke;
+   
+}
+.khung-chitietsp-1
+{
+    height: auto;
+ 
+   
+}
+.khung-chitietsp-bl
+{
+    height: auto;
+    
+    border: 1px solid black;
+    
+}
+/* .text-spct
+{
+    width: 100%;
+    height: 50px;
+    background-color:whitesmoke;
+    border: 1px solid gray;
+khooong bor sau nha
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+} */
+.dong-ctsp
+{
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+.anh-ctsp
+{
+    position: absolute;
+    height: 400px;
+    padding: 30px;
+    width: 450px;
+    
+   
+}
+.khung-ctsp
+{
+    width: 600px;
+    height: 300px;
+    background-color: #FFC501;
+    margin-left: 30px;
+}
+.mota-sp
+{
+    display: block;
+    font-size: 25px;
+
+}
+.khungdk
+{
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* background-color:#E6E5E1; */
+    padding: 10px;
+    background-color: whitesmoke;
+}
+.htttk
+{
+    font-size: 20px;
+}
+.khungdn
+{
+    height: 350px;  
+    margin-top: 30px;
+ margin-bottom: 30px;
+ /* background-color:#E6E5E1; */
+  background-color: whitesmoke;
+
+}
+.khungbaycao
+{
+    height: 230px;
+    
+}
+.khungtkkkk1
+{
+    height: 160px;
+    
+ margin-bottom: 50px;
+ background-color: whitesmoke;
+}
+.kass
+{
+    font-size: 40px;
+}
+.kki
+{
+    height: 100px;
+}
+.khungtkkkk
+{
+    height: 80px;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.thanh-dk
+{
+  width: 300px;
+  margin-bottom: 20px;
+  margin-left: 170px;
+}
+.nut-dangky
+{
+    margin-left: 230px;
+    
+}
+.quenmk
+{
+    display: block;
+    position: relative;
+    margin-top: 10px;
+   
+}
+.quenmk-chu
+{  
+    margin-left: 210px;
+}
+.chu-quenmk
+{
+    text-decoration: none;
+    
+}
+.chu-quenmk:hover
+{
+   color: #111;
+    
+}
+.khungtaikhoan
+{
+    height: 350px;
+    margin-bottom: 30px;
+ background-color: whitesmoke;
+}
+.khungchuchay
+{
+    height: 100px;
+   
+    margin-bottom: 20px;
+}
+.ttcn
+{
+  
+   margin-bottom: 10px;
+}
+.khungcapnhap
+{
+   height: 580px;
+   background-color:whitesmoke;
+   margin-bottom: 30px;
+   margin-top: 30px;
+   padding: 30px;
+}
+.thanh-capnhap
+{
+width: 500px;
+margin-bottom: 20px;
+}
+.khungquenmk
+{
+    padding: 20px;
+    margin-bottom: 30px;
+    height:300px;
+    margin-top: 30px;
+}
+.thanh-mk
+{
+    width: 100%;
+    height: 50px;
+}
+.khungctsp-1
+{
+    height: 200px;
+    width: 100%;
+    background-color: aquamarine;
+
+    border: 1px solid gray;
+    padding: 0 30px 30px 30px ;
+     border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+     background-color: whitesmoke;
+
+}
+.fa-eye
+{
+    font-size: 30px;
+    margin-left: 440px;
+    position: relative;
+    bottom: 55px;
+    right: 10px;
+    cursor: pointer;
+}
+.mat-capnhap
+{
+    font-size: 30px;
+    margin-left: 470px;
+    position: relative;
+    bottom: 55px;
+    right: 10px;
+}
+.khung-gui-binhluan
+{
+    width: 100%;
+    height: 50px;
+    background-color:whitesmoke;
+    position: relative;
+
+} 
+.thanh-binhluan
+{
+    position: absolute;
+    top: 7px; 
+    left: 5px; 
+    width: 300px;
+}
+.nut-gui-bl
+{
+position: absolute;
+float: left;
+left: 815px;
+top: 7px;
+}
+.bang-binhluan
+{
+width: 100%;
+height: auto;
+}
+.noi-dungbl
+{
+    width: 100%;
+    height: auto;
+  
+}
+.khungdk-chinh
+{
+    height: 600px;
+  
+    margin-bottom: 20px;
+
+}
+.khung-giohang
+{
+    height: auto;
+    margin-bottom: 100px;
+    width: 100%;
+    margin-top: 20px;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+    padding: 20px;
+    
+} 
+.dong-22
+{
+    background-color: #FFC501;
+}
+.khungsaugiohang
+{
+    height: 30px;
+}
+.bang22
+{
+    width: 100%;
+    height: auto;
+}
+.bang-giohang 
+{
+    width: 100%;
+   
+     height: auto;  
+    overflow: scroll;
+}
+.khung-bang-2
+{
+    height: 500px;
+    background-color: #FFC501;
+}
+.quaylaimh
+{
+    margin-left: 20px;
+}
+.khung-tt-khachhang
+{
+    height: 50px;
+    background-color:whitesmoke;
+    margin-top: 30px;
+}
+.class-khung-thongtin-kh
+{
+    height: 300px;
+    background-color:whitesmoke;
+}
+.thanh-ttkh
+{
+    width: 500px;
+}
+.pttt
+{
+    height:300px;
+    background-color:whitesmoke;
+   
+    padding: 10px;
+}
+.thanh-tt-1
+{
+    width: 100%;
+    height: 35px;
+    background-color: whitesmoke;
+}
+.tt-giohang
+{
+    height: auto;
+    background-color:whitesmoke;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.bang-giohang-bill
+{
+    width: 100%;
+    overflow: hidden;
+    height: auto;
+    padding: 30px;
+}
+.bang-cart
+{
+    height: auto;
+}
+.camon
+{
+    height: 50px;
+    background-color:#DEE1E6;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    
+} 
+.camonquykhach1
+{
+    height: 60px;
+    background-color: whitesmoke;
+
+    margin-bottom: 30px;
+
+}
+.camonquykhach-2
+{
+    height: 60px;
+    background-color: whitesmoke;
+  
+    margin-bottom: 30px;
+}
+.camonquykhach
+{
+    height: 150px;
+    background-color: whitesmoke;
+  
+    margin-bottom: 30px;
+}
+.khungttdh
+{
+    height: 50px;
+    background-color:#DEE1E6;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px; 
+} 
+ .khungttdh-nguoi
+{
+    height: 150px;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+}
+.khung-confirm-bang
+{
+    width: 100%;
+    height: auto;
+    background-color: whitesmoke;
+}
+.bang-ttgh
+{
+width: 100%;
+height: 100px;
+}
+.khung-dhct
+{
+   height: auto;
+margin-top: 30px;
+   margin-bottom: 30px;
+}
+.dhcb
+{
+    height: 50px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.bang-dhct
+{
+    width: 100%;
+    height: 40px;
+}
+.input-container {
+    display: -ms-flexbox; 
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .icon {
+    padding: 10px;
+    background:grey;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+  }
+  
+  .input-field:focus {
+    border: 2px solid dodgerblue;
+  }
+  .khungbang-ccgh
+  {
+    width: 100%;
+    height: auto;
+    background-color: #FFC501;
+  }
+  .khung-lienhe
+  {
+    height: 600px;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .khunglienhe-ttll
+  {
+    height: 200px;
+    background-color: white;
+    margin-bottom: 30px;  
+}
+.icon-lienlac
+{
+    font-size: 30px;
+    margin-bottom: 20px;
+} */
+
+.cotfooter
+{
+    background-color: white;
+}
+.anhcarosel {
+    height: 280px;
+}
+
+  .col-item
+  {
+      border: 2px solid #2323A1;
+      border-radius: 5px;
+      background: #FFF;
+  }
+  .col-item .photo img
+  {
+      margin: 0 auto;
+      width: 100%;
+  }
+  
+  .col-item .info
+  {
+      padding: 10px;
+      border-radius: 0 0 5px 5px;
+      margin-top: 1px;
+  }
+  .col-item:hover .info {
+      background-color: rgba(215, 215, 244, 0.5); 
+  }
+  .col-item .price
+  {
+      /*width: 50%;*/
+      float: left;
+      margin-top: 5px;
+  }
+  
+  .col-item .price h5
+  {
+      line-height: 20px;
+      margin: 0;
+  }
+  
+  .price-text-color
+  {
+      color: #00990E;
+  }
+  
+  .col-item .info .rating
+  {
+      color: #003399;
+  }
+  
+  .col-item .rating
+  {
+      /*width: 50%;*/
+      float: left;
+      font-size: 17px;
+      text-align: right;
+      line-height: 52px;
+      margin-bottom: 10px;
+      height: 52px;
+  }
+  
+  .col-item .separator
+  {
+      border-top: 1px solid #FFCCCC;
+  }
+  
+  .clear-left
+  {
+      clear: left;
+  }
+  
+  .col-item .separator p
+  {
+      line-height: 20px;
+      margin-bottom: 0;
+      margin-top: 10px;
+      text-align: center;
+  }
+  
+  .col-item .separator p i
+  {
+      margin-right: 5px;
+  }
+  .col-item .btn-add
+  {
+      width: 50%;
+      float: left;
+  }
+  
+  .col-item .btn-add
+  {
+      border-right: 1px solid #CC9999;
+  }
+  
+  .col-item .btn-details
+  {
+      width: 50%;
+      float: left;
+      padding-left: 10px;
+  }
+  .controls
+  {
+      margin-top: 20px;
+  }
+  [data-slide="prev"]
+  {
+      margin-right: 10px;
+  }
+
+  .khungvideo
+  {
+    height: 400px;
+
+  }
+  .video
+  {
+    height: 100%;
+  }
+  .khungdelivery
+  {
+    height: 400px;
+    margin-bottom: 30px;
+  }
+  .khung-deli
+  { 
+    height: 400px;
+    margin-bottom: 30px;
+  }
+  .khung-qcctdh
+  {
+    height: 640px;
+    margin-top: -10px;
+ 
+
+  }
+  
+  .khung-ctdgdgd
+  {
+    height: 340px;
+    
+  }
+  .khung-cddd
+  {
+    height: 100px;
+
+  }
+  .khungoio
+  {
+
+    height: 150px;
+  }
+  .mu
+  {
+    text-decoration: none;
+    color: black;
+  }
+.khungyyy
+{
+    width: 100%;
+    height: 200px;
+    background-color: #00990E;
+}
+  .khungnganhang
+  {
+    height: 200px;
+
+    display: grid;
+    grid-template-columns: repeat(3,170px);
+    grid-template-rows: repeat(3,80px);
+    grid-gap: 30px;
+    padding-left: 20px;
+  }
+  .re1
+  {
+    background-color: #FFC501;
+  }
+  .re2
+  {
+    background-color: yellow;
+  }
+  .re3
+  {
+    background-color: gray;
+  }
+  .anhnganhang
+  {
+    width: 100%;
+    height: 100%;
+  }
